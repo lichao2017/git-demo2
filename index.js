@@ -1,5 +1,1 @@
-console.log("hello world");
-function () {
-	var boo='bar'
-}
-
+你好世界定义变量
